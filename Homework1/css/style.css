@@ -1,0 +1,42 @@
+/* External Styling sheet which is used to add styling to the survey.html and index.html web page
+Used to add style to body and the header tags*/
+body {
+    margin: 0px;
+    font-family: Calibri, sans-serif;
+    background-color: #fafafa;
+}
+
+h1 {
+	color:  : #FFCC33;
+	margin-left: 20px;
+	border: 5px solid #006633;
+	border-style: solid;
+	box-shadow: 5px 10px 8px #888888;
+}
+
+h2 {
+	color:  : #FFCC33;
+	margin-left: 20px;
+	border: 5px solid #FFCC33;
+	border-style: solid;
+}
+
+h3 {
+	color:  : #FFCC33;
+	margin-left: 20px;
+	border: 5px solid #FFCC33;
+	border-style: solid;
+}
+
+h4 {
+	color:  : #FFCC33;
+	margin-left: 20px;
+	border: 5px solid #FFCC33;
+	border-style: solid;
+}
+.conatiner {
+    margin: 20px 100px 20px 100px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding: 20px;
+}
