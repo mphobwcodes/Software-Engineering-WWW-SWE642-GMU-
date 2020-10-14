@@ -1,5 +1,5 @@
 # Software-Engineering-WWW-SWE642-GMU
-
+About the course
 Detailed study of the engineering methods and technologies for building highly
 interactive web sites for e-commerce and other web-based applications.
 Engineering principles for building web sites that exhibit high reliability,
@@ -8,6 +8,7 @@ such as client-server programming, component-based software development,
 middleware, and reusable components are covered. After the course, students
 should be prepared to create software for large-scale web sites.
 
+Technologies Used
 The course content focuses on client-side and server-side software design and
 development. Technologies covered: such as XHTML/
 HTML5, CSS3, JavaScript, Bootstrap, Ajax, jQuery, Angular Framework,
